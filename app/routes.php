@@ -18,7 +18,7 @@
 
 Route::get('/', array(
 	'as'=>'home',
-	'uses'=>'HomeController@showWelcome'
+	'uses'=>'HomeController@home'
 	));
 
 Route::get('/about', array(
