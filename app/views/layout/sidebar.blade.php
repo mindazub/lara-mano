@@ -14,7 +14,7 @@
 			</tr> 
 			<tr><input type='password' name='password'><br />
 			</tr>
-			<tr> <input type='submit' value='Log in'><br />
+			<tr> <input id='button' type='submit' value='Log in'><br />
 			</tr>
 			<tr>
 		<br />

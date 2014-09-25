@@ -92,3 +92,14 @@ padding:10px;
 	padding: 10px 10px 10px 10px;
 	
 }
+
+input {
+    position: relative;
+    left: 0;
+    right: 0;
+    width: 85%;
+}
+
+#button {
+	width: 30%;
+}
